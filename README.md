@@ -1,3 +1,14 @@
-# My Awesome Book
+# This is Gitbook plugins test book
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+List of interesting plugins
+
+### Themes
+
+* theme-bandwidth
+
+* theme-ncbi
+
+* bughooken
+
+
+

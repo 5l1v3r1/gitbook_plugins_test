@@ -4,6 +4,6 @@
         "-hints",
         "-lunr",
         "-search",
-        "bughooken"
+        "theme-ncbi"
     ]
 }
