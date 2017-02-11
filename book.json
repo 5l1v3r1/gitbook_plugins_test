@@ -4,6 +4,6 @@
         "-hints",
         "-lunr",
         "-search",
-        "theme-ncbi"
+        "theme-hassiumlabs"
     ]
 }
