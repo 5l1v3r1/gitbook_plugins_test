@@ -10,7 +10,7 @@ List of interesting plugins
 
 * bughooken
 
-* ssss
+* theme-open\_fxb-docs
 
 * ssss
 
