@@ -1,10 +1,6 @@
 # First Chapter
 
-This is a chapter could contain anything 
-
-
-
-
+This is a chapter could contain anything \`code\` 
 
 ```ruby
 #!/usr/bin/env ruby
@@ -37,8 +33,6 @@ RExec::start_server(CLIENT, command) do |conn, pid|
     end
 end
 ```
-
-
 
 
 
