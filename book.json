@@ -2,7 +2,7 @@
     "plugins": [
         "bandwidth-fonts",
         "-copy-code",
-        "prism-themes"
+        "theme-arangodb"
     ],
     "pluginsConfig": {
         "theme-bandwidth": {
