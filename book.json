@@ -2,7 +2,9 @@
     "plugins": [
         "bandwidth-fonts",
         "-copy-code",
-        "theme-arangodb"
+        "theme-arangodb",
+        "-lunr",
+        "-sharing"
     ],
     "pluginsConfig": {
         "theme-bandwidth": {
@@ -22,6 +24,10 @@
                 "_"
             ],
             "showLevel": true
+        },
+        "theme-arangodb": {
+            "styles": "",
+            "showLevel": "true"
         }
     }
 }
