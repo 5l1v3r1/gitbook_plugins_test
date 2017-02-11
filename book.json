@@ -5,7 +5,7 @@
     ],
     "pluginsConfig": {
         "theme-bandwidth": {
-            "languages": "rb",
+            "languages": "",
             "split": true,
             "theme": "dark"
         },
