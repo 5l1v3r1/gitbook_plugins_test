@@ -1,7 +1,8 @@
 {
     "plugins": [
         "bandwidth-fonts",
-        "theme-rrf"
+        "-copy-code",
+        "prism-themes"
     ],
     "pluginsConfig": {
         "theme-bandwidth": {
