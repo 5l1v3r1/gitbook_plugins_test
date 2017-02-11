@@ -2,6 +2,8 @@
 
 This is a chapter could contain anything `code`  words
 
+
+{% label %}test.js{% endlabel %}
 ```ruby
 #!/usr/bin/env ruby
 
@@ -73,6 +75,4 @@ end
 ###### H6 heading
 
 Link to [google](/google.com)
-
-
 
