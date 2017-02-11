@@ -7,20 +7,5 @@
         "-sharing"
     ],
     "pluginsConfig": {
-        "theme-bandwidth": {
-            "languages": [
-                "ruby"
-            ],
-            "split": true,
-            "theme": "dark"
-        },
-        "bandwidth-fonts": {
-            "theme": "white",
-            "family": "sans",
-            "size": 2
-        },        },
-        "theme-arangodb": {
-            "showLevel": "true"
-        }
     }
 }
