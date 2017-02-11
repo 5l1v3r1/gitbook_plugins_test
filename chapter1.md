@@ -3,7 +3,7 @@
 This is a chapter could contain anything `code`  words
 
 
-{% label %}test.js{% endlabel %}
+{% label %}test.rb{% endlabel %}
 ```ruby
 #!/usr/bin/env ruby
 
