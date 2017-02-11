@@ -18,13 +18,7 @@
             "theme": "white",
             "family": "sans",
             "size": 2
-        },
-        "theme-rangle-io": {
-            "styles": [
-                "_"
-            ],
-            "showLevel": true
-        },
+        },        },
         "theme-arangodb": {
             "showLevel": "true"
         }
