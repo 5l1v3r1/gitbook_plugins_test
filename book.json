@@ -1,10 +1,6 @@
 {
     "plugins": [
         "bandwidth-fonts",
-        "-copy-code",
-        "theme-arangodb",
-        "-lunr",
-        "-sharing"
     ],
     "pluginsConfig": {
     }
