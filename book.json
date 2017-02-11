@@ -5,6 +5,7 @@
         "-lunr",
         "-search",
         "-copy-code",
-        "bandwidth-highlight"
+        "bandwidth-highlight",
+        "code-editor"
     ]
 }
