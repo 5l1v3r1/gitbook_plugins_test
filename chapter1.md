@@ -1,6 +1,6 @@
 # First Chapter
 
-This is a chapter could contain anything `code`  words 
+This is a chapter could contain anything `code`  words
 
 ```ruby
 #!/usr/bin/env ruby
@@ -34,9 +34,7 @@ RExec::start_server(CLIENT, command) do |conn, pid|
 end
 ```
 
-
-
-## H2 heading 
+## H2 heading
 
 **List**
 
@@ -74,13 +72,7 @@ end
 
 ###### H6 heading
 
-
-
-
-
-
-
-
+Link to [google](/google.com) 
 
 
 
