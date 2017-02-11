@@ -26,7 +26,6 @@
             "showLevel": true
         },
         "theme-arangodb": {
-            "styles": [""],
             "showLevel": "true"
         }
     }
