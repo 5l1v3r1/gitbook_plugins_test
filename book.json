@@ -4,6 +4,7 @@
         "-hints",
         "-lunr",
         "-search",
-        "-copy-code"
+        "-copy-code",
+        "codeblock-label"
     ]
 }
