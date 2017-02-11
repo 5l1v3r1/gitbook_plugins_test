@@ -1,11 +1,13 @@
 {
     "plugins": [
-        "theme-bandwidth",
-        "bandwidth-fonts"
+        "bandwidth-fonts",
+        "theme-coderdojosushicard"
     ],
     "pluginsConfig": {
         "theme-bandwidth": {
-            "languages": ["ruby"],
+            "languages": [
+                "ruby"
+            ],
             "split": true,
             "theme": "dark"
         },
