@@ -2,7 +2,7 @@
 
 This is a chapter could contain anything `code`  words
 
-{% label %}**file.rb**{% endlabel %}
+{% label %}file.rb{% endlabel %}
 ```ruby
 #!/usr/bin/env ruby
 
