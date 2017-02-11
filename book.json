@@ -1,7 +1,7 @@
 {
     "plugins": [
         "bandwidth-fonts",
-        "theme-coderdojosushicard"
+        "theme-rangle-io"
     ],
     "pluginsConfig": {
         "theme-bandwidth": {
@@ -15,6 +15,10 @@
             "theme": "white",
             "family": "sans",
             "size": 2
+        },
+        "theme-rangle-io": {
+            "styles": "",
+            "showLevel": true
         }
     }
 }
