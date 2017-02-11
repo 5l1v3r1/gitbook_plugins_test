@@ -1,6 +1,6 @@
 {
     "plugins": [
-        "bandwidth-fonts",
+        "bandwidth-fonts"
     ],
     "pluginsConfig": {
     }
