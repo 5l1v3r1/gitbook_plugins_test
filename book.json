@@ -1,0 +1,18 @@
+{
+    "plugins": [
+        "theme-bandwidth",
+        "bandwidth-fonts"
+    ],
+    "pluginsConfig": {
+        "theme-bandwidth": {
+            "languages": "ruby",
+            "split": true,
+            "theme": "dark"
+        },
+        "bandwidth-fonts": {
+            "theme": "white",
+            "family": "sans",
+            "size": 2
+        }
+    }
+}
