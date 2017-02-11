@@ -72,7 +72,7 @@ end
 
 ###### H6 heading
 
-Link to [google](/google.com) 
+Link to [google](/google.com)
 
 
 
