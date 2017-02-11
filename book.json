@@ -4,6 +4,6 @@
         "-hints",
         "-lunr",
         "-search",
-        "wabtheme"
+        "theme-open_fxb-docs"
     ]
 }

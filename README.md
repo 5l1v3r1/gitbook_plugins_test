@@ -6,7 +6,7 @@ List of interesting plugins
 
 * theme-bandwidth
 
-* sss
+* theme-ztbcms-dos
 
 * bughooken
 
