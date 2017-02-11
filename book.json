@@ -1,7 +1,7 @@
 {
     "plugins": [
         "bandwidth-fonts",
-        "theme-rangle-io"
+        "theme-rrf"
     ],
     "pluginsConfig": {
         "theme-bandwidth": {
@@ -17,7 +17,9 @@
             "size": 2
         },
         "theme-rangle-io": {
-            "styles": ["_"],
+            "styles": [
+                "_"
+            ],
             "showLevel": true
         }
     }
