@@ -4,6 +4,7 @@
         "-hints",
         "-lunr",
         "-search",
-        "theme-redash"
+        "-copy-code",
+        "theme-mobdoc"
     ]
 }
