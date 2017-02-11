@@ -3,6 +3,7 @@
         "-headings",
         "-hints",
         "-lunr",
-        "-search"
+        "-search",
+        "theme-creative"
     ]
 }
