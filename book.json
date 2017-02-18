@@ -5,6 +5,7 @@
         "-lunr",
         "-search",
         "-copy-code",
-        "codeblock-label"
+        "codeblock-label",
+        "richquotes"
     ]
 }
